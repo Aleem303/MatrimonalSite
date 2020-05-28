@@ -1,0 +1,11 @@
+.postImageWrapper{
+    height: 650px;  
+    overflow: hidden;
+}
+
+.paragraph{
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    
+}
